@@ -1,0 +1,2 @@
+# make_hasan_list
+破産者マップからデータを得るjavascript
