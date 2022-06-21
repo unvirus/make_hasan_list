@@ -1,7 +1,7 @@
 # make_hasan_list
 破産者マップからデータを得るjavascript
 
-使い方
+使い方<br>
 Microsoft Edgeで破産者マップを開く（http://www.hasanmap.org)
 Microsoft Edgeの開発モードを開く 
 コンソールタブに移動する 
