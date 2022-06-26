@@ -1,5 +1,6 @@
 # make_hasan_list
-破産者マップからデータを得るjavascript<br>
+破産者マップ データ ダウンロード<br>　
+破産者マップからデータをダウンロードします<br>
 <br>
 使い方<br>
 Microsoft Edgeで破産者マップを開く（http://www.hasanmap.org)<br>
